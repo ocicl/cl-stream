@@ -1,0 +1,10 @@
+* cl-stream
+
+Stream classes for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/cl-stream/cl-stream.git   |
+| commit  | 8c48885  |
+| systems | cl-stream |
+|---------+-------------------------------------------|
+
